@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Careers reward adaptability more than passion. Money buys options, not meaning. Learning compounds only through consistent practice. Discipline beats motivation. Relationships thrive on honesty over compatibility. Health is a long-term investment. Success is what I say it is, not what the world defines it as. Life resists certainty. Tech industry is a series of bubbles that one may need to be careful and things change too fast.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency outperforms intensity over time. Small, repeated actions reliably beat occasional bursts of effort.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to work out a lot and discovered it relies a lot more on consistency than intensity
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Clear communication prevents more problems than intelligence alone can solve.
 
 ### Evidence from my life
 
-Add your answer here...
+I see this a lot at work, understanding the problem beats trying to guess or be clever 
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Feedback from real-world results is more valuable than assumptions; testing ideas quickly reveals what actually works, regardless of confidence or theory.
 
 ### Evidence from my life
 
-Add your answer here...
+Another lesson from work as a tech support engineer, I discovered taing out time to test reveals what works than assuming which can potentially cause issues later.
 
 ---
 
@@ -135,11 +135,26 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Over the past seven years, I completely transformed my career and built a life defined by discipline, continuous learning, and consistent execution. I successfully transitioned from a Tech Support Engineer into a Senior DevOps and Platform Engineer, where I designed, automated, and managed secure, scalable cloud infrastructure used by thousands of users.
+
+I mastered Linux, networking, AWS, Docker, Kubernetes, Terraform, Git, GitHub Actions, Jenkins, Prometheus, Grafana, Python, and Bash. I built and shipped more than 15 production-ready projects, including automated deployment pipelines, Infrastructure as Code solutions, Kubernetes clusters, and cloud-native applications. Every project was documented in my portfolio and published on GitHub, demonstrating practical experience and measurable results.
+
+I earned industry certifications, including AWS Certified Solutions Architect, Terraform Associate, Certified Kubernetes Administrator (CKA), and Linux Foundation certifications. These credentials validated the expertise I had already developed through hands-on work.
+
+I published technical blogs that documented my learning journey, deployment strategies, troubleshooting techniques, and DevOps best practices. My articles helped thousands of engineers, while my open-source contributions improved community projects and connected me with developers around the world.
+
+I led infrastructure migrations, reduced deployment times through CI/CD automation, improved system reliability, and mentored junior engineers transitioning into DevOps. I spoke at local technology meetups, participated in hackathons, and actively contributed to engineering communities by reviewing code, answering technical questions, and sharing practical knowledge.
+
+My GitHub profile became a strong portfolio that consistently attracted recruiters and collaborators. My side projects evolved into products that generated recurring income and solved real business problems.
+
+Financially, I significantly increased my income, built multiple investment portfolios, established a strong emergency fund, and achieved financial freedom that allowed me to relocate, support my family, and choose meaningful work. Looking back, every milestone resulted from small, consistent actions repeated over time, proving that disciplined execution transformed both my career and my life.
+
+
+ **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 ### Public Link
 
-Paste your link here:
+Paste your link here: https://yorubawiki.blogspot.com/2026/07/my-20-version.html
 
 `__________________________`
 
@@ -173,7 +188,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I once tried to fit in all my responsibilities in a short time, I made a trip and even though I got to my destination right in time for work, I was too tired and made some avoidable mistakes because of fatigue. The mistake caused avoidable issues for my team and required extra effort to fix. I felt guilty because my shortcut affected others, and I learned that I need to consider the consequences of my actions more before I do them. 
 
 ---
 
@@ -199,16 +214,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Mindset — Carol S. Dweck
+2. How to Win Friends and Influence People — Dale Carnegie.
+3. Deep Work — Cal Newport
+4. Outlive — Peter Attia
+5. The Psychology of Money — Morgan Housel
+6. So Good They Can't Ignore You — Cal Newport
+7. The 21 Irrefutable Laws of Leadership — John C. Maxwell
+8. The Phoenix Project
+9. The DevOps Handbook
+10. Designing Data-Intensive Applications
 
 ---
 
@@ -237,16 +252,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning/study hours per week
+* Technical articles read
+* Projects shipped
+* Networking conversations
+* Sleep hours
+* Workout sessions
+* Daily steps
+* Resting heart rate
+* Savings rate
+* Personal spending
 
 ---
 
@@ -272,7 +287,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +305,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Thu:60–90 min deep work (learning + hands-on labs)
+Friday: 30–60 min project building (apply what you learned)
+Saturday: DMI session
+Sunday: Rest
+
 
 ---
 
@@ -298,11 +317,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday to Thursday 2PM 
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3
 
 ---
 
@@ -316,27 +335,29 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Phone stays out of reach during deep work
+Notifications turned off
+Social media is scheduled, after the day's work for 30 mins
+Dedicated “work zone” used only for learning and building
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can make time out of work to commit to my development
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I spend a lot of time planning
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will implement accountability by checking in with friends on progress
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Paste your LinkedIn post link here:https://www.linkedin.com/posts/adekunle-faboade-abb949116_this-is-a-story-about-the-next-couple-of-share-7478591588038979584-eHLZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABz40u8Bvi_JsmNOB_kK2fX7zgJlj4GDDKM
 
 `__________________________`
 
@@ -344,8 +365,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[https://www.linkedin.com/posts/adekunle-faboade-abb949116_this-is-a-story-about-the-next-couple-of-share-7478591588038979584-eHLZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABz40u8Bvi_JsmNOB_kK2fX7zgJlj4GDDKM]  
+- Blog / Medium : [https://yorubawiki.blogspot.com/2026/07/my-20-version.html]
 
 ---
 
