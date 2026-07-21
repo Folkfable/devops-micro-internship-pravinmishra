@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+![Memory File Path](screenshots/memory.png)
 
 ---
 
@@ -34,13 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![Memory saved](screenshots/memory_saved.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+![Memory file](screenshots/memory_file.png)
 
 ---
 
@@ -54,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+![Claude Deploy Log](screenshots/deploy.png)
 
 ---
 
@@ -68,13 +68,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![Claude Deploy Log](screenshots/deploy.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+![Claude Deploy Log](screenshots/deploy.png)
 
 ---
 
@@ -97,7 +97,7 @@ Paste your Linkedin post link here:
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+Paste your forked repository URL here:https://github.com/Folkfable/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 `__________________________`
 

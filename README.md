@@ -73,8 +73,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 01 → Success Mindset 
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+ Week 02 → Agentic AI with Claude Code 
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/adekunle-faboade-abb949116_this-is-a-story-about-the-next-couple-of-share-7478591588038979584-eHLZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABz40u8Bvi_JsmNOB_kK2fX7zgJlj4GDDKM | https://yorubawiki.blogspot.com/2026/07/my-20-version.html |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/adekunle-faboade-abb949116_devops-claudecode-ai-activity-7485431695538790401-baJ5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABz40u8Bvi_JsmNOB_kK2fX7zgJlj4GDDKM | https://yorubawiki.blogspot.com/2026/07/devops-week-2-learning-about-agentic-ai.html |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
